@@ -1,0 +1,44 @@
+.ramma {
+    margin-top: 120px;
+    
+}
+
+.ramma__content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.ramma__info {
+    color: #242D52;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 64px;
+    letter-spacing: -1px;
+    padding-bottom: 16px;
+}
+
+.ramma__text {
+    width: 340px;
+    color: #242D52;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    padding-bottom: 40px;
+    opacity: 0.5025;
+}
+
+
+
+.ramma_sub__text {
+    color: #FCF6F5;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: normal;
+    padding: 12px 32px 13px 32px;
+    border-radius: 50px;
+    border: 1px solid #F3603C;
+    background-color: #F3603C;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
